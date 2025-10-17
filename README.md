@@ -11,4 +11,3 @@
 - 하루 최소 1문제 이상 풀이 하기
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdj0311028)
-![Programmers Profile](http://mazassumnida.wtf/api/generate_badge?programmers=jdj0311028@naver.com)
